@@ -1,5 +1,5 @@
 class Bar{
-    constructor(name){
+    constructor(name,surname){
         this._name = name;
         this._surname = surmane
     }
