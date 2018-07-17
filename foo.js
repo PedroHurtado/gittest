@@ -1,4 +1,4 @@
-class Bar{
+class Baz{
     constructor(name,surname){
         this._name = name;
         this._surname = surmane
