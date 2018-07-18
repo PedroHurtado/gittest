@@ -13,6 +13,9 @@ class Baz{
     get surmane(){
         return this._surname;
     }
+    set surname(value){
+        this._surname = value;
+    }
     get phone(){
         return this._phone;
     }
